@@ -14,5 +14,3 @@ npx blowfish-tools
 ```  
 
 {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
-
-

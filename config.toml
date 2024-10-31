@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 
 # Add these recommended settings
 languageCode = "en"
-paginate = 10
+pagerSize = 10
 
 [params]
   # Set the homepage layout to 'page' instead of the default
