@@ -1,1 +1,3 @@
 theme = "blowfish"
+baseURL = "https://qharo.github.io"
+defaultContentLanguage = "en"
