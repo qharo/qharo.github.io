@@ -1,3 +1,11 @@
 theme = "blowfish"
 baseURL = "https://qharo.github.io"
 defaultContentLanguage = "en"
+
+# Add these recommended settings
+languageCode = "en"
+paginate = 10
+
+[params]
+  # Set the homepage layout to 'page' instead of the default
+  homepage = "page"    # Options are "page", "profile", "hero", "card", "background", "custom"
