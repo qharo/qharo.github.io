@@ -4,6 +4,8 @@ defaultContentLanguage = "en"
 
 # Add these recommended settings
 languageCode = "en"
+
+[pagination]
 pagerSize = 10
 
 [params]
