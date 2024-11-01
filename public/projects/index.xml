@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aditya Yogesh Nair</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Aditya Yogesh Nair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>aditya.nair24@gmail.com (Aditya)</managingEditor>
+    <webMaster>aditya.nair24@gmail.com (Aditya)</webMaster>
+    
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deva</title>
+      <link>http://localhost:1313/projects/ddpm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya)</author>
+      <guid>http://localhost:1313/projects/ddpm/</guid>
+      <description>PyTorch implementation of DDPM, trained to generate Devanagiri Script.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,3 @@ languageCode = "en"
 
 [pagination]
 pagerSize = 10
-
-[params]
-  # Set the homepage layout to 'page' instead of the default
-  homepage = "page"    # Options are "page", "profile", "hero", "card", "background", "custom"

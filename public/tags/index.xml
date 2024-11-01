@@ -2,11 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aditya Yogesh Nair</title>
-    <link>https://qharo.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Aditya Yogesh Nair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="https://qharo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>aditya.nair24@gmail.com (Aditya)</managingEditor>
+    <webMaster>aditya.nair24@gmail.com (Aditya)</webMaster>
+    
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya)</author>
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya)</author>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/tags/tensorflow/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya)</author>
+      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
