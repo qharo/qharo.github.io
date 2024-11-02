@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://qharo.github.io"
+# baseURL = "https://qharo.github.io"
 defaultContentLanguage = "en"
 
 # Add these recommended settings

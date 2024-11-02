@@ -8,10 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Deva &middot; Aditya Yogesh Nair</title>
-  <meta name="title" content="Deva &middot; Aditya Yogesh Nair" />
+  <title>Devanagiri-DDPM &middot; Aditya Yogesh Nair</title>
+  <meta name="title" content="Devanagiri-DDPM &middot; Aditya Yogesh Nair" />
   
-  <meta name="description" content="PyTorch implementation of DDPM, trained to generate Devanagiri Script." />
+  <meta name="description" content="A PyTorch implementation of DDPM trained to generate Devanagiri Script." />
   
   
   
@@ -65,8 +65,8 @@
   
   <meta property="og:url" content="http://localhost:1313/projects/ddpm/">
   <meta property="og:site_name" content="Aditya Yogesh Nair">
-  <meta property="og:title" content="Deva">
-  <meta property="og:description" content="PyTorch implementation of DDPM, trained to generate Devanagiri Script.">
+  <meta property="og:title" content="Devanagiri-DDPM">
+  <meta property="og:description" content="A PyTorch implementation of DDPM trained to generate Devanagiri Script.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
@@ -75,8 +75,8 @@
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Deva">
-  <meta name="twitter:description" content="PyTorch implementation of DDPM, trained to generate Devanagiri Script.">
+  <meta name="twitter:title" content="Devanagiri-DDPM">
+  <meta name="twitter:description" content="A PyTorch implementation of DDPM trained to generate Devanagiri Script.">
 
   
   <script type="application/ld+json">
@@ -84,10 +84,10 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Projects",
-    "name": "Deva",
-    "headline": "Deva",
+    "name": "Devanagiri-DDPM",
+    "headline": "Devanagiri-DDPM",
     
-    "abstract": "PyTorch implementation of DDPM, trained to generate Devanagiri Script.",
+    "abstract": "A PyTorch implementation of DDPM trained to generate Devanagiri Script.",
     "inLanguage": "en",
     "url" : "http:\/\/localhost:1313\/projects\/ddpm\/",
     "author" : {
@@ -103,7 +103,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "1"
+    "wordCount": "39"
   }]
   </script>
 
@@ -384,6 +384,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -445,7 +455,7 @@
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/projects/ddpm/"
-      >Deva</a
+      >Devanagiri-DDPM</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -454,7 +464,7 @@
 
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Deva
+      Devanagiri-DDPM
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -543,8 +553,58 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p><a href="DevanagiriDDPM.png"></a></p>
-<p>Denoisings</p>
+          <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+  A PyTorch implementation of a Denoising Diffusion Probabilistic Model (DDPM) trained to generate Devanagari characters. It trains a 10 million parameter U-Net on 96,000 32x32 images.
+</div>
+
+
+
+<h1 class="relative group">images 
+    <div id="images" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#images" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+
+
+<h3 class="relative group">Denoising Diffusion Probabilistic Models 
+    <div id="denoising-diffusion-probabilistic-models" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#denoising-diffusion-probabilistic-models" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+
+
+<h3 class="relative group">Dataset and Training 
+    <div id="dataset-and-training" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#dataset-and-training" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+
+
+<h3 class="relative group">Results 
+    <div id="results" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#results" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
 
           
           
@@ -586,7 +646,13 @@
   </footer>
 </article>
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
