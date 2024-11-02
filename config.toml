@@ -7,3 +7,6 @@ languageCode = "en"
 
 [pagination]
 pagerSize = 10
+
+[params]
+  defaultFeaturedImage = "img/defaultFeatured.jpg"  #

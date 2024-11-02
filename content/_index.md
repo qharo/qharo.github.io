@@ -1,13 +1,12 @@
 ---
 title: "Aditya Yogesh Nair"
-description: "Machine Learning Engineer"
 draft: false
-showAuthor: true
 ---
 
 
-{{< list title="Projects" cardView=false limit=1 where="Type" value="Project" >}}
-{{< list title="Experience" cardView=true limit=4 where="Type" value="Experience" >}}
+{{< list title="Projects" cardView=false where="Type" value="Project" >}}
+
+{{< list title="Experience" limit=4 where="Type" value="Experience" >}}
 
 ## Education
 {{< timeline >}}

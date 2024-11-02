@@ -3,26 +3,3 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 title = "Aditya Yogesh Nair"
-
-[params]
-  displayName = "EN"
-  isoCode = "en"
-  rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
-
-[params.author]
-  name = "Aditya"
-  email = "aditya.nair24@gmail.com"
-  image = "img/profilePic.jpg"
-  imageQuality = 96
-  headline = "ML engineer focused on practical optimization"
-  bio = "ML engineer focused on practical optimization"
-  links = [
-    { download = "/testPdf.pdf"},
-    { github = "https://github.com/qharo" },
-     { linkedin = "https://linkedin.com/in/aditya-y-nair" },
-  ]

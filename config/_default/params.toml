@@ -14,22 +14,38 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["Projects", "Experience"]
+# mainSections = ["Projects", "Experience"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+# defaultBackgroundImage = "topography.svg" # used as default for background images 
+# defaultFeaturedImage = "topography.svg" # used as default for featured images in all articles
 
-highlightCurrentMenuArea = true
+# highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+
+
+
+[author]
+  name = "Aditya Nair"
+  email = "aditya.nair24@gmail.com"
+  image = "img/profilePic.jpg"
+  imageQuality = 96
+  headline = "ML engineer focused on practical optimization"
+  bio = "ML engineer focused on practical optimization"
+  links = [
+    { download = "/testPdf.pdf"},
+    { github = "https://github.com/qharo" },
+     { linkedin = "https://linkedin.com/in/aditya-y-nair" },
+  ]
+
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -42,50 +58,50 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/images/profilePic.jpg" # used in: hero, and card
   showRecent = false
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
-  cardView = false
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  # showRecentItems = 5
+  # showMoreLink = false
+  # showMoreLinkDest = "/posts/"
+  # cardView = false
+  # cardViewScreenWidth = false
+  # layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = true
+  showDate = false
   # showViews = false
   # showLikes = false
-  showDateOnlyInArticle = false
+  showDateOnlyInArticle = true
   showDateUpdated = false
   showAuthor = false
   # showAuthorBottom = false
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground 
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
 [list]
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -96,7 +112,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showCards = false
   orderByWeight = true
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -114,8 +130,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
