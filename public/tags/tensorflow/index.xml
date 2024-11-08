@@ -9,25 +9,15 @@
     <managingEditor>aditya.nair24@gmail.com (Aditya Nair)</managingEditor>
     <webMaster>aditya.nair24@gmail.com (Aditya Nair)</webMaster>
     
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amadeus</title>
+      <title>RF-Based Automatic Prompt Compression</title>
       <link>http://localhost:1313/experience/amadeus/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <author>aditya.nair24@gmail.com (Aditya Nair)</author>
       <guid>http://localhost:1313/experience/amadeus/</guid>
-      <description>Detailed project description goes here.</description>
-      
-    </item>
-    
-    <item>
-      <title>INRIA</title>
-      <link>http://localhost:1313/experience/inria/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
-      <guid>http://localhost:1313/experience/inria/</guid>
-      <description>Detailed project description goes here.</description>
-      
+      <description>Amadeus Research Team</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/experience/amadeus/thumbnail.png" />
     </item>
     
   </channel>

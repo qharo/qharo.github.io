@@ -10,16 +10,13 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-    name = "Projects"
-    pageRef = "projects"
-    weight = 10
 
 
 [[main]]
-    name = "Experience"
-    pageRef = "experience"
-    weight = 10
+  pre = "download"
+  name = "Resume"
+  url = "/files/Resume_2024.pdf"
+  weight = 10
 
 #[[main]]
 #  name = "Parent"

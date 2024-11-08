@@ -11,33 +11,23 @@
     
     <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amadeus</title>
-      <link>http://localhost:1313/experience/amadeus/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
-      <guid>http://localhost:1313/experience/amadeus/</guid>
-      <description>Detailed project description goes here.</description>
-      
-    </item>
-    
-    <item>
-      <title>INRIA</title>
-      <link>http://localhost:1313/experience/inria/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
-      <guid>http://localhost:1313/experience/inria/</guid>
-      <description>Detailed project description goes here.</description>
-      
-    </item>
-    
-    <item>
-      <title>Devanagiri-DDPM</title>
+      <title>Devanagiri Diffusion Model</title>
       <link>http://localhost:1313/projects/ddpm/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>aditya.nair24@gmail.com (Aditya Nair)</author>
       <guid>http://localhost:1313/projects/ddpm/</guid>
       <description>A PyTorch implementation of DDPM trained to generate Devanagiri Script.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ddpm/thumbnail.png" />
+    </item>
+    
+    <item>
+      <title>RF-Based Automatic Prompt Compression</title>
+      <link>http://localhost:1313/experience/amadeus/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
+      <guid>http://localhost:1313/experience/amadeus/</guid>
+      <description>Amadeus Research Team</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/experience/amadeus/thumbnail.png" />
     </item>
     
   </channel>

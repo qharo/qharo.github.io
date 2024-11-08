@@ -9,7 +9,7 @@ colorScheme = "noir"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 replyByEmail = false
@@ -34,16 +34,16 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 
 [author]
-  name = "Aditya Nair"
+  name = "Aditya Yogesh Nair"
   email = "aditya.nair24@gmail.com"
   image = "img/profilePic.jpg"
   imageQuality = 96
   headline = "ML engineer focused on practical optimization"
   bio = "ML engineer focused on practical optimization"
-  links = [
-    { download = "/testPdf.pdf"},
+  links = [ 
     { github = "https://github.com/qharo" },
-     { linkedin = "https://linkedin.com/in/aditya-y-nair" },
+    { linkedin = "https://linkedin.com/in/aditya-y-nair" },
+    #{ code = "https://leetcode.com/u/qharo/" }
   ]
 
 
@@ -76,11 +76,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showDateUpdated = false
   showAuthor = false
   # showAuthorBottom = false
-  showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = false
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground 
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -101,7 +101,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [list]
   showHero = true
-  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -112,7 +112,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showCards = false
   orderByWeight = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -120,7 +120,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
@@ -130,7 +130,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardView = false
 
 [term]
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false

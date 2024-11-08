@@ -1,12 +1,12 @@
 ---
-title: "Devanagiri-DDPM"
+title: "Devanagiri Diffusion Model"
 date: "2024-10-03"
 summary: "A PyTorch implementation of DDPM trained to generate Devanagiri Script."
 type: "Project"
-tags: ["ML"]
+tags: ["CV", "PyTorch"]
 thumbnailimage: "thumbnail.png"
 # link: "https://github.com/yourusername/project"  # Optional
-weight: 10  # Controls the order (lower numbers appear first)
+weight: 20  # Controls the order (lower numbers appear first)
 ---
 
 {{< lead >}}

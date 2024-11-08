@@ -6,36 +6,46 @@
     <description>Recent content in Tags on Aditya Yogesh Nair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>aditya.nair24@gmail.com (Aditya Nair)</managingEditor>
-    <webMaster>aditya.nair24@gmail.com (Aditya Nair)</webMaster>
+    <managingEditor>aditya.nair24@gmail.com (Aditya Yogesh Nair)</managingEditor>
+    <webMaster>aditya.nair24@gmail.com (Aditya Yogesh Nair)</webMaster>
     
     <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ML</title>
-      <link>http://localhost:1313/tags/ml/</link>
+      <title>CV</title>
+      <link>http://localhost:1313/tags/cv/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
-      <guid>http://localhost:1313/tags/ml/</guid>
+      <author>aditya.nair24@gmail.com (Aditya Yogesh Nair)</author>
+      <guid>http://localhost:1313/tags/cv/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/tags/pytorch/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya Yogesh Nair)</author>
+      <guid>http://localhost:1313/tags/pytorch/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>TensorFlow</title>
-      <link>http://localhost:1313/tags/tensorflow/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>aditya.nair24@gmail.com (Aditya Nair)</author>
-      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <title>Internship</title>
+      <link>http://localhost:1313/tags/internship/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya Yogesh Nair)</author>
+      <guid>http://localhost:1313/tags/internship/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>http://localhost:1313/tags/nlp/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>aditya.nair24@gmail.com (Aditya Yogesh Nair)</author>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
       
     </item>

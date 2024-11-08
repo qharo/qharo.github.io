@@ -1,5 +1,5 @@
 ---
 title: "Experience"
-layout: "cards"
+images:
+    - "images/experience/i3s/thumbnail.png"
 ---
-
