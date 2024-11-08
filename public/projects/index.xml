@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Aditya Yogesh Nair</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://qharo.github.io/projects/</link>
     <description>Recent content in Projects on Aditya Yogesh Nair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>aditya.nair24@gmail.com (Aditya Yogesh Nair)</managingEditor>
     <webMaster>aditya.nair24@gmail.com (Aditya Yogesh Nair)</webMaster>
     
-    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qharo.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devanagiri Diffusion Model</title>
-      <link>http://localhost:1313/projects/ddpm/</link>
+      <link>https://qharo.github.io/projects/ddpm/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>aditya.nair24@gmail.com (Aditya Yogesh Nair)</author>
-      <guid>http://localhost:1313/projects/ddpm/</guid>
+      <guid>https://qharo.github.io/projects/ddpm/</guid>
       <description>A PyTorch implementation of DDPM trained to generate Devanagiri Script.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ddpm/thumbnail.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://qharo.github.io/projects/ddpm/thumbnail.png" />
     </item>
     
   </channel>

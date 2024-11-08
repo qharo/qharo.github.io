@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/experience/amadeus/</loc>
+    <loc>https://qharo.github.io/experience/amadeus/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/ddpm/</loc>
+    <loc>https://qharo.github.io/projects/ddpm/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/experience/i3s/</loc>
+    <loc>https://qharo.github.io/experience/i3s/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://qharo.github.io/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://qharo.github.io/projects/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://qharo.github.io/experience/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://qharo.github.io/home/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
