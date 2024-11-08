@@ -15,7 +15,7 @@
 [[main]]
   pre = "download"
   name = "Resume"
-  url = "/files/Resume_2024.pdf"
+  url = "/files/Resume.pdf"
   weight = 10
 
 #[[main]]
