@@ -15,7 +15,7 @@
 [[main]]
   pre = "download"
   name = "Resume"
-  url = "/files/Resume.pdf"
+  url = "https://raw.githubusercontent.com/qharo/qharo.github.io/main/static/files/Resume.pdf"
   weight = 10
 
 #[[main]]
