@@ -2,7 +2,7 @@
 title: "Aditya Yogesh Nair"
 draft: false
 ---
-{{< list title="Projects" cardView=false limit=2 where="Type" value="Project" >}}
+{{< list title="Projects" cardView=false limit=3 where="Type" value="Project" >}}
 {{< list title="Experience" limit=2 where="Type" value="Experience" >}}
 ## Education
 {{< timeline >}}

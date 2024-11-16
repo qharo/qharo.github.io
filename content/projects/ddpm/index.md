@@ -6,7 +6,7 @@ type: "Project"
 tags: ["CV", "PyTorch"]
 thumbnailimage: "thumbnail.png"
 # link: "https://github.com/yourusername/project"  # Optional
-weight: 20  # Controls the order (lower numbers appear first)
+weight: 10  # Controls the order (lower numbers appear first)
 ---
 
 {{< lead >}}

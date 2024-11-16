@@ -15,8 +15,7 @@
 [[main]]
   pre = "download"
   name = "Resume"
-  #pageRef = "/files/Resume.pdf"
-  url = "https://raw.githubusercontent.com/qharo/qharo.github.io/main/static/files/Resume.pdf"
+  url = "https://github.com/qharo/qharo.github.io/blob/d2dcd5c009c9c02b191c00d98cfadb4735e510ca/static/files/Resume.pdf"
   weight = 10
 
 #[[main]]
