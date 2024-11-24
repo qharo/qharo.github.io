@@ -1,6 +1,6 @@
 ---
 title: "llama2.rs"
-date: "2024-10-03"
+date: "2024-11-21"
 summary: "A Rust implementation of Llama-2"
 type: "Project"
 tags: ["NLP", "Rust"]
